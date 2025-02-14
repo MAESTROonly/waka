@@ -1,0 +1,18 @@
+2025-02-14T08:24:22.166Z [info]: Server started on port 3000
+2025-02-14T08:24:38.795Z [info]: MongoDB connected successfully.
+2025-02-14T08:25:04.949Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T08:40:44.356Z [info]: Server started on port 3000
+2025-02-14T08:40:50.897Z [info]: MongoDB connected successfully.
+2025-02-14T08:40:57.456Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T08:41:07.630Z [info]: Post Created: ID 67af01a3a3cdb2d1b5e73ad4 by zhanabekrauan@gmail.com
+2025-02-14T08:41:55.646Z [info]: User Registration: brat@gmail.com (ID: 67af01d3a3cdb2d1b5e73adb)
+2025-02-14T08:42:08.167Z [info]: User Login: brat@gmail.com (ID: 67af01d3a3cdb2d1b5e73adb)
+2025-02-14T08:43:18.022Z [info]: User Deleted: ID 67af01d3a3cdb2d1b5e73adb by admin brat@gmail.com
+2025-02-14T08:50:37.871Z [info]: Server started on port 3000
+2025-02-14T08:50:40.186Z [info]: MongoDB connected successfully.
+2025-02-14T08:51:15.395Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T08:53:45.018Z [info]: Comment Created: ID 67af04983624eb38c3230882 on Post 67af01a3a3cdb2d1b5e73ad4 by zhanabekrauan@gmail.com
+2025-02-14T09:26:02.060Z [info]: Server started on port 4444
+2025-02-14T09:26:04.551Z [info]: MongoDB connected successfully.
+2025-02-14T09:26:52.625Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T09:27:03.168Z [info]: Post Created: ID 67af0c6667577e6586eb45ef by zhanabekrauan@gmail.com
