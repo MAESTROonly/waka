@@ -16,3 +16,14 @@
 2025-02-14T09:26:04.551Z [info]: MongoDB connected successfully.
 2025-02-14T09:26:52.625Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
 2025-02-14T09:27:03.168Z [info]: Post Created: ID 67af0c6667577e6586eb45ef by zhanabekrauan@gmail.com
+2025-02-14T09:29:59.758Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T09:30:55.122Z [info]: User Registration: vasya@gmail.com (ID: 67af0d4e67577e6586eb4605)
+2025-02-14T09:31:04.230Z [info]: User Login: vasya@gmail.com (ID: 67af0d4e67577e6586eb4605)
+2025-02-14T09:31:15.020Z [info]: User Login: vasya@gmail.com (ID: 67af0d4e67577e6586eb4605)
+2025-02-14T09:33:05.863Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T09:52:21.881Z [info]: Server started on port 4444
+2025-02-14T09:52:24.348Z [info]: MongoDB connected successfully.
+2025-02-14T09:57:33.830Z [info]: User Registration: d.rahimzhanov@astanait.edu.kz (ID: 67af138d63deda67cf872bdf)
+2025-02-14T09:58:43.977Z [info]: User Login: d.rahimzhanov@astanait.edu.kz (ID: 67af138d63deda67cf872bdf)
+2025-02-14T10:06:51.658Z [info]: User Login: d.rahimzhanov@astanait.edu.kz (ID: 67af138d63deda67cf872bdf)
+2025-02-14T10:07:26.185Z [info]: User Login: vasya@gmail.com (ID: 67af0d4e67577e6586eb4605)
