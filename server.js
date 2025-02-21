@@ -303,7 +303,7 @@ app.post('/posts/advanced-filter', isAuthenticated, async (req, res) => {
             {
                 updateMany: {
                     filter: matchStage,
-                    update: {$push: {tags: "updated"}}
+                    update: {$push: {tags: ""}}
                 }
             }
         ]);

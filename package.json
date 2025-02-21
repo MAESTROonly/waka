@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Almas and Medeu",
+  "author": "Rauan",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

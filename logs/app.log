@@ -27,3 +27,63 @@
 2025-02-14T09:58:43.977Z [info]: User Login: d.rahimzhanov@astanait.edu.kz (ID: 67af138d63deda67cf872bdf)
 2025-02-14T10:06:51.658Z [info]: User Login: d.rahimzhanov@astanait.edu.kz (ID: 67af138d63deda67cf872bdf)
 2025-02-14T10:07:26.185Z [info]: User Login: vasya@gmail.com (ID: 67af0d4e67577e6586eb4605)
+2025-02-14T19:11:37.745Z [info]: Server started on port 4444
+2025-02-14T19:11:39.867Z [info]: MongoDB connected successfully.
+2025-02-14T19:12:27.815Z [info]: Server started on port 3000
+2025-02-14T19:12:29.500Z [info]: MongoDB connected successfully.
+2025-02-14T19:12:56.822Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-14T19:13:11.375Z [info]: User Login: zhanabekrauan@gmail.com (ID: 67aef9dd05541605a7104106)
+2025-02-20T13:25:12.919Z [info]: Server started on port 3000
+2025-02-20T13:25:14.962Z [info]: MongoDB connected successfully.
+2025-02-20T13:26:00.059Z [info]: User Registration: zhan@gmail.com (ID: 67b72d6713b4cebecad7b394)
+2025-02-20T13:26:13.684Z [info]: User Login: zhan@gmail.com (ID: 67b72d6713b4cebecad7b394)
+2025-02-20T13:26:40.719Z [info]: Profile Updated: zhan@gmail.com (ID: 67b72d6713b4cebecad7b394)
+2025-02-20T13:27:06.371Z [info]: Post Created: ID 67b72daa13b4cebecad7b3a7 by zhan@gmail.com
+2025-02-20T13:27:13.558Z [info]: Comment Created: ID 67b72db113b4cebecad7b3ae on Post 67b72daa13b4cebecad7b3a7 by zhan@gmail.com
+2025-02-20T13:29:19.764Z [info]: Post Created: ID 67b72e2f13b4cebecad7b3d2 by zhan@gmail.com
+2025-02-20T13:31:41.528Z [info]: User Login: zhan@gmail.com (ID: 67b72d6713b4cebecad7b394)
+2025-02-20T13:35:17.958Z [info]: User Registration: lukaku@gmail.com (ID: 67b72f9513b4cebecad7b40f)
+2025-02-20T13:36:14.837Z [info]: User Registration: manchester@gmail.com (ID: 67b72fce13b4cebecad7b416)
+2025-02-20T13:36:22.827Z [info]: User Login: manchester@gmail.com (ID: 67b72fce13b4cebecad7b416)
+2025-02-20T13:36:47.143Z [info]: Comment Created: ID 67b72fee13b4cebecad7b422 on Post 67b72e2f13b4cebecad7b3d2 by manchester@gmail.com
+2025-02-20T13:36:53.516Z [info]: Bulk Comment Deletion: Deleted comments [67b72fee13b4cebecad7b422] by admin manchester@gmail.com
+2025-02-20T13:37:00.964Z [info]: Comment Created: ID 67b72ffc13b4cebecad7b42e on Post 67b72e2f13b4cebecad7b3d2 by manchester@gmail.com
+2025-02-20T13:37:07.036Z [info]: Bulk Comment Deletion: Deleted comments [] by admin manchester@gmail.com
+2025-02-20T13:37:12.136Z [info]: Comment Created: ID 67b7300713b4cebecad7b43c on Post 67b72e2f13b4cebecad7b3d2 by manchester@gmail.com
+2025-02-20T13:37:16.970Z [info]: Bulk Comment Deletion: Deleted comments [67b72ffc13b4cebecad7b42e, 67b7300713b4cebecad7b43c] by admin manchester@gmail.com
+2025-02-20T13:37:52.924Z [info]: Comment Created: ID 67b7303013b4cebecad7b44a on Post 67b72e2f13b4cebecad7b3d2 by manchester@gmail.com
+2025-02-20T13:42:16.959Z [info]: Server started on port 3000
+2025-02-20T13:42:18.608Z [info]: MongoDB connected successfully.
+2025-02-20T13:42:45.482Z [info]: User Login: manchester@gmail.com (ID: 67b72fce13b4cebecad7b416)
+2025-02-20T13:42:46.023Z [info]: User Login: manchester@gmail.com (ID: 67b72fce13b4cebecad7b416)
+2025-02-20T13:43:34.151Z [info]: User Updated: ID 67b72f9513b4cebecad7b40f by admin manchester@gmail.com
+2025-02-20T13:55:09.697Z [info]: Server started on port 3000
+2025-02-20T13:55:11.367Z [info]: MongoDB connected successfully.
+2025-02-20T14:09:55.906Z [info]: Server started on port 3000
+2025-02-20T14:09:57.583Z [info]: MongoDB connected successfully.
+2025-02-20T14:13:49.573Z [info]: Server started on port 3000
+2025-02-20T14:13:51.252Z [info]: MongoDB connected successfully.
+2025-02-20T14:19:59.132Z [info]: Server started on port 3000
+2025-02-20T14:20:00.796Z [info]: MongoDB connected successfully.
+2025-02-20T14:20:48.954Z [info]: User Registration: test3@gmail.com (ID: 67b73a400aa179756183817b)
+2025-02-20T14:21:07.252Z [info]: User Login: test3@gmail.com (ID: 67b73a400aa179756183817b)
+2025-02-20T14:21:23.297Z [info]: Comment Created: ID 67b73a620aa1797561838186 on Post 67b72e2f13b4cebecad7b3d2 by test3@gmail.com
+2025-02-20T14:21:45.241Z [info]: Post Created: ID 67b73a790aa1797561838191 by test3@gmail.com
+2025-02-20T14:21:56.994Z [info]: Profile Updated: test3@gmail.com (ID: 67b73a400aa179756183817b)
+2025-02-20T14:23:17.950Z [info]: User Registration: testadmin@gmail.com (ID: 67b73ad50aa17975618381b3)
+2025-02-20T14:23:36.297Z [info]: User Login: testadmin@gmail.com (ID: 67b73ad50aa17975618381b3)
+2025-02-20T14:23:48.412Z [info]: Post Deleted: ID 67b73a790aa1797561838191 by admin testadmin@gmail.com
+2025-02-20T14:23:58.843Z [info]: Bulk Comment Deletion: Deleted comments [67b7303013b4cebecad7b44a, 67b73a620aa1797561838186] by admin testadmin@gmail.com
+2025-02-20T14:24:04.495Z [info]: Comment Created: ID 67b73b040aa17975618381cb on Post 67b72e2f13b4cebecad7b3d2 by testadmin@gmail.com
+2025-02-20T14:24:41.480Z [info]: User Updated: ID 67b73a400aa179756183817b by admin testadmin@gmail.com
+2025-02-20T14:25:41.056Z [info]: User Deleted: ID 67b73a400aa179756183817b by admin testadmin@gmail.com
+2025-02-20T14:26:05.862Z [info]: User Deleted: ID 67b72fce13b4cebecad7b416 by admin testadmin@gmail.com
+2025-02-20T14:29:22.885Z [info]: Server started on port 3000
+2025-02-20T14:29:24.548Z [info]: MongoDB connected successfully.
+2025-02-20T14:32:24.210Z [info]: User Login: testadmin@gmail.com (ID: 67b73ad50aa17975618381b3)
+2025-02-20T14:32:59.052Z [info]: Post Deleted: ID 67aefcc505541605a7104157 by admin testadmin@gmail.com
+2025-02-20T14:33:27.620Z [info]: Post Deleted: ID 67b72e2f13b4cebecad7b3d2 by admin testadmin@gmail.com
+2025-02-21T03:01:56.228Z [info]: Server started on port 3000
+2025-02-21T03:01:58.621Z [info]: MongoDB connected successfully.
+2025-02-21T03:07:51.987Z [info]: User Registration: test1000@gmail.com (ID: 67b7ee07502de90b822eebf5)
+2025-02-21T03:08:02.650Z [info]: User Login: test1000@gmail.com (ID: 67b7ee07502de90b822eebf5)

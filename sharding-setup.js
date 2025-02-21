@@ -8,7 +8,7 @@ const { MongoClient } = require('mongodb');
 
     const adminDb = client.db('admin');
 
-    const dbName = 'advancedDB';
+    const dbName = 'test';
     const collectionName = `${dbName}.posts`;
 
     console.log(`Enabling sharding on database "${dbName}"...`);
